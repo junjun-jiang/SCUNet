@@ -1,7 +1,7 @@
 # _Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis_
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cszn/SCUNet) 
+![visitors](https://github.com/junjun-jiang/Hyperspectral-Image-Super-Resolution-Benchmark) 
 
 
 [[Paper](https://arxiv.org/pdf/2203.13278.pdf)]  [[Online Demo]](https://replicate.com/cszn/scunet)
